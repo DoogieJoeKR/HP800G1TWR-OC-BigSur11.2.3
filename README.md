@@ -3,6 +3,7 @@
 wrote : 25 May 2021, doogiejoe
 
 ### Worked and include
+- Opencore 0.6.9
 - HP 800 G1 Tower (BIOS(L01), Ver: 02.78 Rev.A, Apr 29, 2020)
 - i7-4770 CPU @ 3.4GHz, 32GB 1600MHz DDR3 memory
 - Graphics HP GeForce GT 630 2048MB
