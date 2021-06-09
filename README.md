@@ -15,7 +15,7 @@ wrote : 25 May 2021, doogiejoe, OC 0.6.9
 ### Not include or More Things you can
 - Opencore GUI Boot
 - Headless with iGPU
-- iMessage (im not use)
+- iMessage (im not use, but maybe good on same AppleId )
 - Big Sur USB3.0 Trouble & USBPort Map (at over BigSur 11.3)
 
 ### guide: BIOS Setup
